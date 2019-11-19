@@ -1,0 +1,163 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">CabaCalc</string>
+    <string name="txt2">Welcome:</string>
+    <string name="but_enviar">Send</string>
+    <string name="intxt_1">FullName</string>
+    <string name="intxt_2">09</string>
+    <string name="intxt_3">11</string>
+    <string name="intxt_4">2001</string>
+    <string name="txt_3">Name</string>
+    <string name="txt_4">Date of birth</string>
+    <string name="b_urg">Interior Urgency</string>
+    <string name="b_ton">Fundamental Tonic</string>
+    <string name="b_dia">Tonic of the Day</string>
+    <string name="b_sign">Meaning of the numbers</string>
+    <string name="b_acnt">Event of the day</string>
+    <string name="b_cab">Kabbalah of the Year</string>
+    <string name="txtLbl">Select a calculation</string>
+    <string name="lbles">Free Numerological Study</string>
+    <string name="txt_urgencia">The inner urgency is how we tend to be, like a zodiac sign, but numerical.
+This number makes the person firm, solid.</string>
+    <string name="txt_tonica">The fundamental tonic is what we have to work to succeed in life.</string>
+    <string name="txt_dia">Through this system you know how you are going to know how to act that day.</string>
+    <string name="Datelbl">Enter the desired date</string>
+    <string name="bdate">Calculate</string>
+    <string name="txtact">You have to know how to choose exactly the day or night time to successfully carry out any activity of reality.</string>
+    <string name="error">Fill in all the fields to proceed</string>
+    <string name="a1">Made by: Emilio Valdivia Cisneros, creation date: 03/11/19</string>
+    <string name="a2">Copyright © All Rights Reserved
+</string>
+
+    <string name="txtcab">During life we ​​have space years related to the law of cause and effect (Karma), it will
+        depend on one if the number favors us or is against one, for their actions.</string>
+
+    <string name="txt_num1">ARCANO 1
+THE MAGICIAN:
+THE MAN:
+"Sword. Will. Power."\n\n
+
+ARCANO 2
+THE PRIESTHOOD:
+THE WOMAN OF THE MAGICIAN:
+"Hidden Science. Favorable."\n\n
+
+ARCANO 3
+THE EMPRESS:
+THE DIVINE MOTHER:
+"Material and Spiritual Production".\n\n
+
+ARCANO 4
+THE EMPEROR:
+"Command. Progress. Success. Mercy."\n\n
+
+ARCANO 5
+THE HIERARCH:
+THE RIGOR, THE LAW:
+"Karma. Mars. War."\n\n
+
+ARCANO 6
+INDECISION:
+THE LOVE:
+"Victoria. Good luck."\n\n
+
+ARCANO 7
+THE TRIUMPH:
+THE WAR CART:
+"Wars. Fights. Atonement. Pain. Bitterness."\n\n
+</string>
+    <string name="txt_num2">
+    ARCANO 8
+JUSTICE:
+THE JOB ARCANO:
+"Sufferings. Tests. Pain."\n\n
+
+ARCANO 9
+THE EREMIT:
+THE INITIATION:
+"Loneliness. Sufferings."\n\n
+
+ARCANO 10
+THE RETRIBUTION:
+Wheel of fortune:
+"Good business. Changes."\n\n
+
+ARCANO 11
+THE PERSUASION:
+THE DOMED LION:
+"Favors the Law. Let there be no fear. Mars."\n\n
+
+ARCANO 12
+THE APOSTOLATE:
+THE SACRIFICE:
+"Tests and pain. Arcano A.Z.F. takes us out of pain."\n\n
+
+ARCANO 13
+THE INMORTALITY:
+DEATH and RESURRECTION:
+"Transformations. Indicates total change."\n\n
+
+ARCANO 14
+THE TEMPERANCE:
+MARRIAGE ASSOCIATION:
+"Long life. Stability. I don't change."\n\n
+
+    </string>
+    <string name="txt_num3">
+    ARCANO 15
+THE PASSION:
+TYPHON BAFOMETO:
+"Loving failure. Announces dangers."\n\n
+
+ARCANO 16
+THE FRAGILITY:
+THE FULMINATED TOWER:
+"Punishment. Terrible fall. Avoid this date."
+\n\n
+ARCANO 17
+THE HOPE:
+THE STAR OF HOPE:
+"It means hope and hope."\n\n
+
+ARCANO 18
+THE TWILIGHT:
+HIDDEN ENEMIES:
+"Hidden enemies jump at any time. Diseases. No business."\n\n
+
+ARCANO 19
+THE INSPIRATION:
+THE RADIANT SUN:
+"Successes. Good luck. The Philosopher's Stone."\n\n
+
+ARCANO 20
+THE RESURRECTION:
+THE RESURRECTION OF THE DEAD:
+"Favorable changes, take advantage of them. End the weaknesses."\n\n
+
+ARCANO 21
+THE TRANSMUTATION:
+THE CRAZY, THE INSENSITY:
+"Total demoralization for evil. Magic key: Rune Olin. Antithesis, enemies of Hiram Habif."\n\n
+
+ARCANO 22
+THE RETURN:
+THE TRUTH, THE CROWN OF LIFE:
+"Triumph. Everything goes well. Power. Strength. Good luck.".</string>
+    <string name="arcano1">The absolute power, the idea that everything is in your hands, that has all the possibilities of choice. The conviction Ease to start over as many times as necessary. Represents a young man with momentum and energy</string>
+    <string name="arcano2">It symbolizes the mother, possibility of conceiving, a prudent, reserved person, does not say everything she knows, but her feelings are deep, a wise and studious woman, someone who does not show everything she is or everything she knows, secrets kept.
+</string>
+    <string name="arcano3">Synthesis and harmony between spirit, mind, balance and emotionality. This letter represents motherhood, femininity, sensuality, affectivity.
+</string>
+    <string name="arcano4">The earthly and temporal power, the material, that man with his knowledge can use to derive material benefits. It also represents stability, the social position of what has been achieved, the strength of the acquired, fortune, well-being, material pleasure
+</string>
+    <string name="arcano5">Spiritual and temporal power and reign in 3 worlds or planes. Obedience to power and divine will, respecting order, the transmission of universal laws to the world. It means that what happens is what is marked by destiny.
+</string>
+    <string name="arcano6">Love, the couple, emotional relationships, announces marriage, achievement of relationships, consolidation, announces children. It represents the possibility of being faced with an election, but an election that has really already been chosen by fate.
+</string>
+    <string name="arcano7">Success, power, travel, travel, social position, high-ranking person, action, friends around him, strength and energy. Important moment
+</string>
+    <string name="arcano8">The balance, fairness, rigor, justice. The only negative of this letter is the lack of dynamism and speed. Everything is possible, everything is possible in the long term. It has a sign of fatality, as it says: "Everything will happen when the time comes."
+</string>
+    <string name="arcano9">The hermit, the ascetic, the guide, the scholar, the scholar, the seeker. It also represents loneliness, reflection, prudence, study. It usually goes well at important times.
+</string>
+</resources>

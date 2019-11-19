@@ -1,0 +1,168 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/fondo"
+    tools:context=".TonicaDiaActivity">
+
+    <TextView
+        android:id="@+id/Datelbl"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_above="@id/date1"
+
+        android:layout_alignParentStart="true"
+        android:layout_centerHorizontal="true"
+        android:layout_marginStart="37dp"
+        android:layout_marginBottom="13dp"
+        android:fontFamily="sans-serif-condensed-medium"
+        android:text="@string/Datelbl"
+        android:textColor="@android:color/black"
+        android:textSize="20sp" />
+
+    <EditText
+        android:id="@+id/date3"
+        android:layout_width="64dp"
+        android:layout_height="51dp"
+        android:layout_above="@id/txt_dia2"
+        android:layout_centerHorizontal="true"
+        android:layout_marginLeft="0dp"
+        android:layout_marginBottom="20dp"
+        android:layout_toRightOf="@id/sld2"
+        android:ems="10"
+        android:hint="@string/intxt_4"
+        android:inputType="date" />
+
+    <EditText
+        android:id="@+id/date2"
+        android:layout_width="54dp"
+        android:layout_height="46dp"
+
+        android:layout_above="@id/txt_dia2"
+        android:layout_marginLeft="0dp"
+        android:layout_marginBottom="20dp"
+        android:layout_toRightOf="@id/sld1"
+        android:ems="10"
+        android:hint="@string/intxt_3"
+        android:inputType="date" />
+
+    <TextView
+        android:id="@+id/sld2"
+        android:layout_width="19dp"
+        android:layout_height="47dp"
+        android:layout_above="@id/txt_dia2"
+        android:layout_marginLeft="0dp"
+        android:layout_marginBottom="20dp"
+        android:layout_toRightOf="@id/date2"
+        android:text="/"
+        android:textSize="36sp" />
+
+    <TextView
+        android:id="@+id/sld1"
+        android:layout_width="17dp"
+        android:layout_height="50dp"
+        android:layout_above="@id/txt_dia2"
+        android:layout_marginLeft="0dp"
+        android:layout_marginBottom="20dp"
+        android:layout_toRightOf="@id/date1"
+        android:text="/"
+        android:textSize="36sp" />
+
+    <EditText
+        android:id="@+id/date1"
+        android:layout_width="54dp"
+        android:layout_height="45dp"
+        android:layout_above="@id/txt_dia2"
+        android:layout_alignParentStart="true"
+        android:layout_marginStart="41dp"
+
+        android:layout_marginTop="1dp"
+        android:layout_marginBottom="20dp"
+        android:ems="10"
+        android:hint="@string/intxt_2"
+        android:inputType="date" />
+
+    <TextView
+        android:id="@+id/txt_dia2"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_above="@id/bdate"
+        android:layout_marginLeft="@android:dimen/app_icon_size"
+        android:layout_marginBottom="26dp"
+        android:fontFamily="sans-serif-condensed-medium"
+        android:text="@string/b_dia"
+        android:textColor="@android:color/black"
+        android:textSize="24sp" />
+
+    <Button
+        android:id="@+id/bdate"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentStart="true"
+        android:layout_alignParentEnd="true"
+        android:layout_alignParentBottom="true"
+        android:layout_marginStart="288dp"
+        android:layout_marginTop="10dp"
+        android:layout_marginEnd="26dp"
+        android:layout_marginBottom="26dp"
+        android:background="@drawable/buttonstyle"
+        android:clickable="true"
+        android:focusable="true"
+        android:fontFamily="sans-serif-condensed-medium"
+        android:onClick="mostrarData"
+        android:text="@string/bdate"
+        android:textColor="@android:color/white" />
+
+    <TextView
+        android:id="@+id/txt_dia3"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@id/date1"
+        android:layout_marginLeft="32dp"
+        android:layout_marginTop="14dp"
+        android:layout_toRightOf="@id/txt_dia2"
+        android:text="0"
+        android:textAlignment="center"
+        android:textSize="36sp" />
+
+    <TextView
+        android:id="@+id/txt_dia"
+        android:layout_width="280dp"
+        android:layout_height="wrap_content"
+        android:layout_above="@id/Datelbl"
+        android:layout_below="@id/titulodia"
+        android:layout_alignParentStart="true"
+        android:layout_marginStart="20dp"
+        android:layout_marginEnd="25dp"
+        android:layout_marginBottom="61dp"
+        android:layout_toStartOf="@+id/img_tonico2"
+        android:fontFamily="sans-serif-condensed-medium"
+        android:text="@string/txt_dia"
+        android:textColor="@android:color/black"
+        android:textSize="20sp" />
+
+    <ImageView
+        android:id="@+id/img_tonico2"
+        android:layout_width="149dp"
+        android:layout_height="228dp"
+        android:layout_alignParentRight="true"
+        android:layout_marginTop="@android:dimen/app_icon_size"
+        app:srcCompat="@drawable/dia" />
+
+    <TextView
+        android:id="@+id/titulodia"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentStart="true"
+        android:layout_alignParentTop="true"
+        android:layout_marginStart="24dp"
+        android:layout_marginTop="12dp"
+        android:layout_marginBottom="@android:dimen/app_icon_size"
+        android:fontFamily="sans-serif-condensed-medium"
+        android:text="@string/b_dia"
+        android:textColor="@android:color/black"
+        android:textSize="30sp" />
+
+</RelativeLayout>

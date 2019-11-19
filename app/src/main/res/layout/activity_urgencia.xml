@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/fondo"
+    tools:context=".UrgenciaActivity">
+
+    <ImageView
+        android:id="@+id/img_urgencia"
+        android:layout_width="184dp"
+        android:layout_height="227dp"
+        android:layout_marginStart="1dp"
+        android:layout_marginTop="136dp"
+        android:layout_marginBottom="56dp"
+        app:layout_constraintBottom_toTopOf="@+id/txt_urgres"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toEndOf="@+id/txt_urgencia"
+        app:layout_constraintTop_toTopOf="parent"
+        app:srcCompat="@drawable/urgencia" />
+
+    <TextView
+        android:id="@+id/txt_urgres"
+        android:layout_width="47dp"
+        android:layout_height="47dp"
+        android:layout_marginStart="28dp"
+        android:layout_marginEnd="140dp"
+        android:layout_marginBottom="265dp"
+        android:text="0"
+        android:textAlignment="center"
+        android:textSize="36sp"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.0"
+        app:layout_constraintStart_toEndOf="@+id/txt_urgencia2" />
+
+    <TextView
+        android:id="@+id/txt_urgencia2"
+        android:layout_width="211dp"
+        android:layout_height="42dp"
+        android:layout_marginStart="31dp"
+        android:layout_marginBottom="264dp"
+        android:fontFamily="sans-serif-condensed-medium"
+        android:text="@string/b_urg"
+        android:textColor="@android:color/black"
+        android:textSize="24sp"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintStart_toStartOf="parent" />
+
+    <TextView
+        android:id="@+id/txt_urgencia"
+        android:layout_width="197dp"
+        android:layout_height="225dp"
+        android:layout_marginStart="27dp"
+        android:layout_marginTop="132dp"
+        android:layout_marginBottom="61dp"
+        android:fontFamily="sans-serif-condensed-medium"
+        android:text="@string/txt_urgencia"
+        android:textColor="@android:color/black"
+        android:textSize="20sp"
+        app:layout_constraintBottom_toTopOf="@+id/txt_urgencia2"
+        app:layout_constraintEnd_toStartOf="@+id/img_urgencia"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent" />
+
+    <TextView
+        android:id="@+id/titulo1"
+        android:layout_width="339dp"
+        android:layout_height="46dp"
+        android:layout_marginStart="31dp"
+        android:layout_marginTop="44dp"
+        android:layout_marginEnd="41dp"
+        android:layout_marginBottom="44dp"
+        android:fontFamily="sans-serif-condensed-medium"
+        android:text="@string/b_urg"
+        android:textColor="@android:color/black"
+        android:textSize="30sp"
+        app:layout_constraintBottom_toTopOf="@+id/txt_urgencia"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.0"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent" />
+
+    <TextView
+        android:id="@+id/txtarcano"
+        android:layout_width="359dp"
+        android:layout_height="244dp"
+        android:layout_marginStart="29dp"
+        android:layout_marginTop="39dp"
+        android:layout_marginEnd="21dp"
+        android:layout_marginBottom="31dp"
+        android:textSize="22sp"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/txt_urgencia2" />
+
+</androidx.constraintlayout.widget.ConstraintLayout>

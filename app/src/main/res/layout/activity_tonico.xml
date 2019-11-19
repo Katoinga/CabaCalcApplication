@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/fondo"
+    tools:context=".TonicoActivity">
+
+    <TextView
+        android:id="@+id/txtarcano"
+        android:layout_width="359dp"
+        android:layout_height="244dp"
+        android:layout_marginStart="29dp"
+        android:layout_marginEnd="21dp"
+        android:layout_marginBottom="16dp"
+        android:textSize="22sp"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.0"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/txt_tonres"
+        app:layout_constraintVertical_bias="0.0" />
+
+    <TextView
+        android:id="@+id/txt_tonica"
+        android:layout_width="197dp"
+        android:layout_height="225dp"
+        android:layout_marginStart="28dp"
+        android:layout_marginTop="136dp"
+        android:layout_marginBottom="61dp"
+        android:fontFamily="sans-serif-condensed-medium"
+        android:text="@string/txt_tonica"
+        android:textColor="@android:color/black"
+        android:textSize="20sp"
+        app:layout_constraintBottom_toTopOf="@+id/txt_urgencia2"
+        app:layout_constraintEnd_toStartOf="@+id/img_urgencia"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent" />
+
+    <TextView
+        android:id="@+id/txt_tonres"
+        android:layout_width="47dp"
+        android:layout_height="47dp"
+        android:layout_marginStart="28dp"
+        android:layout_marginTop="61dp"
+        android:layout_marginEnd="28dp"
+        android:layout_marginBottom="260dp"
+        android:text="0"
+        android:textAlignment="center"
+        android:textSize="36sp"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.0"
+        app:layout_constraintStart_toEndOf="@+id/txt_urgencia2"
+        app:layout_constraintTop_toBottomOf="@+id/img_tonico" />
+
+    <TextView
+        android:id="@+id/txt_tonica2"
+        android:layout_width="295dp"
+        android:layout_height="41dp"
+        android:layout_marginStart="31dp"
+        android:layout_marginTop="63dp"
+        android:layout_marginBottom="264dp"
+        android:fontFamily="sans-serif-condensed-medium"
+        android:text="@string/b_ton"
+        android:textColor="@android:color/black"
+        android:textSize="24sp"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/img_tonico" />
+
+    <ImageView
+        android:id="@+id/img_tonico"
+        android:layout_width="184dp"
+        android:layout_height="227dp"
+        android:layout_marginStart="1dp"
+        android:layout_marginTop="136dp"
+        android:layout_marginBottom="56dp"
+        app:layout_constraintBottom_toTopOf="@+id/txt_urgres"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toEndOf="@+id/txt_urgencia"
+        app:layout_constraintTop_toTopOf="parent"
+        app:srcCompat="@drawable/tonico" />
+
+    <TextView
+        android:id="@+id/titulo2"
+        android:layout_width="339dp"
+        android:layout_height="46dp"
+        android:layout_marginStart="31dp"
+        android:layout_marginTop="44dp"
+        android:layout_marginEnd="41dp"
+        android:layout_marginBottom="44dp"
+        android:fontFamily="sans-serif-condensed-medium"
+        android:text="@string/b_ton"
+        android:textColor="@android:color/black"
+        android:textSize="30sp"
+        app:layout_constraintBottom_toTopOf="@+id/txt_urgencia"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.0"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent" />
+</androidx.constraintlayout.widget.ConstraintLayout>

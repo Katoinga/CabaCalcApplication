@@ -1,0 +1,164 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">CabaCalc</string>
+    <string name="txt2">Bem-vindo:</string>
+    <string name="but_enviar">Enviar</string>
+    <string name="intxt_1">Nome completo</string>
+    <string name="intxt_2">09</string>
+    <string name="intxt_3">11</string>
+    <string name="intxt_4">2001</string>
+    <string name="txt_3">Nome</string>
+    <string name="txt_4">Data de nascimento</string>
+    <string name="b_urg">Urgência interior</string>
+    <string name="b_ton">Tônico fundamental</string>
+    <string name="b_dia">Tônico do dia</string>
+    <string name="b_sign">Significado dos números</string>
+    <string name="b_acnt">Evento do dia</string>
+    <string name="b_cab">Cabala do Ano</string>
+    <string name="txtLbl">Selecione um cálculo</string>
+    <string name="lbles">Estudo numerológico gratuito</string>
+    <string name="txt_urgencia">A urgência interna é como tendemos a ser, como um signo do zodíaco, mas numéricos.
+Esse número torna a pessoa firme e sólida.</string>
+    <string name="txt_tonica">O tônico fundamental é o que temos que trabalhar para ter sucesso na vida.</string>
+    <string name="txt_dia">Através deste sistema, você sabe como vai agir naquele dia.</string>
+    <string name="Datelbl">Digite a data desejada</string>
+    <string name="bdate">Calcular</string>
+    <string name="txtact">Você precisa saber como escolher exatamente o dia ou a noite para realizar com êxito qualquer atividade da realidade.</string>
+    <string name="error">Preencha todos os campos para continuar</string>
+    <string name="a1">Feito por: Emilio Valdivia Cisneros, data de criação: 03/03/19</string>
+    <string name="a2">Copyright © Todos os direitos reservados
+</string>
+    <string name="txtcab">Durante a vida, temos anos espaciais relacionados à lei de causa e efeito (Karma);
+        depende de um se o número nos favorecer ou for contra um, por suas ações. </string>
+
+    <string name="txt_num1">ARCANO 1
+O MÁGICO:
+O HOMEM:
+"Espada. Vontade. Poder."\n\n
+
+ARCANO 2
+O SACERDÓCIO:
+A MULHER DO MÁGICO:
+"Ciência oculta. Profissional".\n\n
+
+ARCANO 3
+A IMPRESSA:
+A MÃE DIVINA:
+"Produção material e espiritual".\n\n
+
+ARCANO 4
+O IMPERADOR:
+"Comando. Progresso. Sucesso. Misericórdia."\n\n
+
+ARCANO 5
+A HIERARQUIA:
+O RIGOR, A LEI:
+"Karma. Marte. Guerra."\n\n
+
+ARCANO 6
+INDECISÃO:
+O AMOR:
+"Victoria. Boa sorte."\n\n
+
+ARCANO 7
+O TRIUNFO:
+O CARRO DE GUERRA:
+"Guerras. Lutas. Expiação. Dor. Amargura."\n\n
+</string>
+    <string name="txt_num2">
+   ARCANO 8
+JUSTIÇA:
+O ARCANO DE TRABALHO:
+"Sofrimentos. Testes. Dor."\n\n
+
+ARCANO 9
+O eremita:
+A INICIAÇÃO:
+"Solidão. Sofrimentos."\n\n
+
+ARCANO 10
+A RETRIBUIÇÃO:
+Roda da fortuna:
+"Bons negócios. Mudanças."\n\n
+
+ARCANO 11
+A PERSUASÃO:
+O LEÃO DOMED:
+"Favorece a lei. Que não haja medo. Marte."\n\n
+
+ARCANO 12
+O APOSTOLADO:
+O SACRIFÍCIO:
+"Testes e dor. Arcano A.Z.F. nos tira da dor."\n\n
+
+ARCANO 13
+A IMORTALIDADE:
+MORTE E RESSURREIÇÃO:
+"Transformações. Indica mudança total."\n\n
+
+ARCANO 14
+A TEMPERÂNCIA:
+ASSOCIAÇÃO DE CASAMENTO:
+"Vida longa. Estabilidade. Eu não mudo."\n\n
+
+
+    </string>
+    <string name="txt_num3">
+ARCANO 15
+A PAIXÃO:
+TYPHON BAFOMETO:
+"Fracasso amoroso. Anuncia perigos."\n\n
+
+ARCANO 16
+A FRAGILIDADE:
+A TORRE FULMINADA:
+"Castigo. Queda terrível. Evite esta data."\n\n
+
+ARCANO 17
+A ESPERANÇA:
+A ESTRELA DA ESPERANÇA:
+"Significa esperança e esperança."\n\n
+
+ARCANO 18
+O CREPÚSCULO:
+INIMIGOS ESCONDIDOS:
+"Inimigos ocultos pulam a qualquer momento. Doenças. Não é da conta."\n\n
+
+ARCANO 19
+A INSPIRAÇÃO:
+O SOL RADIANTE:
+"Sucessos. Boa sorte. A Pedra Filosofal."\n\n
+
+ARCANO 20
+A RESSURREIÇÃO:
+A RESSURREIÇÃO DOS MORTOS:
+"Mudanças favoráveis, aproveite-as. Acabem com as fraquezas."\n\n
+
+ARCANO 21
+A TRANSMUTAÇÃO:
+O LOUCO, A INSENSIDADE:
+"Desmoralização total pelo mal. Chave mágica: Rune Olin. Antítese, inimigos de Hiram Habif."\n\n
+
+ARCANO 22
+O RETORNO:
+A VERDADE, A COROA DA VIDA:
+"Triunfo. Tudo vai bem. Poder. Força. Boa sorte."</string>
+    <string name="arcano1">O poder absoluto, a ideia de que tudo está em suas mãos, que tem todas as possibilidades de escolha. A convicção Facilidade para recomeçar quantas vezes for necessário. Representa um jovem com impulso e energia</string>
+    <string name="arcano2">Simboliza a mãe, a possibilidade de conceber, uma pessoa prudente e reservada, não diz tudo o que sabe, mas seus sentimentos são profundos, uma mulher sábia e estudiosa, alguém que não mostra tudo o que é ou o que sabe, segredos guardados.
+</string>
+    <string name="arcano3">Síntese e harmonia entre espírito, mente, equilíbrio e emocionalidade. Esta carta representa maternidade, feminilidade, sensualidade, afetividade.
+</string>
+    <string name="arcano4">O poder terreno e temporal, o material, que o homem com seu conhecimento pode usar para obter benefícios materiais. Representa também estabilidade, posição social do que foi alcançado, força do prazer adquirido, fortuna, bem-estar e prazer material
+</string>
+    <string name="arcano5">Poder espiritual e temporal e reinar em 3 mundos ou planos. Obediência ao poder e vontade divina, respeitando a ordem, a transmissão de leis universais ao mundo. Isso significa que o que acontece é o que é marcado pelo destino.
+</string>
+    <string name="arcano6">O amor, o casal, relacionamentos emocionais, anuncia casamento, conquista de relacionamentos, consolidação, anuncia filhos. Representa a possibilidade de enfrentar uma eleição, mas uma eleição que realmente já foi escolhida pelo destino.
+</string>
+    <string name="arcano7">Sucesso, poder, viagens, viagens, posição social, pessoa de alto escalão, ação, amigos à sua volta, força e energia.
+</string>
+    <string name="arcano8">O equilíbrio, justiça, rigor, justiça. O único aspecto negativo desta carta é a falta de dinamismo e velocidade. Tudo é possível, tudo é possível a longo prazo. Tem um sinal de fatalidade, como diz: "Tudo acontecerá quando chegar a hora".
+</string>
+    <string name="arcano9">O eremita, o asceta, o guia, o erudito, o erudito, o buscador. Representa também a solidão, a reflexão, a prudência, o estudo, e costuma correr bem em momentos importantes.
+</string>
+
+</resources>

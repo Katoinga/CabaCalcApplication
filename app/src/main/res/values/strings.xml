@@ -1,0 +1,157 @@
+<resources>
+    <string name="app_name">CabaCalc</string>
+    <string name="txt2">Bienvenido:</string>
+    <string name="but_enviar">Enviar</string>
+    <string name="intxt_1">Nombre Completo</string>
+    <string name="intxt_2">09</string>
+    <string name="intxt_3">11</string>
+    <string name="intxt_4">2001</string>
+    <string name="txt_3">Nombre</string>
+    <string name="txt_4">Fecha de nacimiento</string>
+    <string name="b_urg">Urgencia Interior</string>
+    <string name="b_ton">Tónica Fundamental</string>
+    <string name="b_dia">Tónica del Día</string>
+    <string name="b_sign">Significado de los números</string>
+    <string name="b_acnt">Acontecimiento del día</string>
+    <string name="b_cab">Cábala del Año</string>
+    <string name="txtLbl">Seleccione un cálculo</string>
+    <string name="lbles">Estudio Numerológico Gratuito</string>
+    <string name="txt_urgencia">La urgencia interior, es cómo tendemos a ser, como un signo zodiacal, pero numérico.
+Este número hace a la persona firme, sólida.</string>
+    <string name="txt_tonica">La tónica fundamental, es en lo que tenemos que trabajar para triunfar en la vida.</string>
+    <string name="txt_dia">Por medio de este sistema sabe uno como le va a ir para saber como actuar ese día.</string>
+    <string name="Datelbl">Ingrese la fecha deseada</string>
+    <string name="bdate">Calcular</string>
+    <string name="error">Rellene todos los campos para proceder</string>
+    <string name="txtact">Hay que saber escoger con exactitud del día o de la noche la hora para realizar con éxito cualquier actividad de la realidad.</string>
+    <string name="a1">Hecho por: Emilio Valdivia Cisneros, fecha de creacion: 03/11/19</string>
+    <string name="a2">Copyright © Todos los Derechos Reservados</string>
+
+    <string name="txtcab">Durante la vida tenemos años espaciales relacionados con la ley de causa y efecto
+        (Karma), dependerá de uno si el número nos favorezca o esté en contra de uno, por sus actos.</string>
+    <string name="arcano1">El poder absoluto, la idea que todo está en sus manos, que tiene todas las posibilidades de elección. El convencimiento. Facilidad para empezar de nuevo las veces que haga falta. Representa a un hombre joven con ímpetu y energía</string>
+
+    <string name="txt_num1">ARCANO 1\n
+EL MAGO:
+EL HOMBRE:
+"Espada. Voluntad. Poder".\n\n
+
+ARCANO 2
+LA SACERDOTISA:
+LA MUJER del MAGO:
+"Ciencia Oculta. Favorable".\n\n
+
+ARCANO 3
+LA EMPERATRIZ:
+LA MADRE DIVINA:
+"Producción Material y Espiritual".\n\n
+
+ARCANO 4
+EL EMPERADOR:
+"Mando. Progreso. Éxito. Misericordia".\n\n
+
+ARCANO 5
+EL JERARCA:
+EL RIGOR, LA LEY:
+"El Karma. Marte. Guerra".\n\n
+
+ARCANO 6
+LA INDECISIÓN:
+EL ENAMORADO:
+"Victoria. Buena Suerte".\n\n
+
+ARCANO 7
+EL TRIUNFO:
+EL CARRO de GUERRA:
+"Guerras. Luchas. Expiación. Dolor. Amargura".\n\n
+</string>
+    <string name="txt_num2">
+    ARCANO 8
+    LA JUSTICIA:
+    EL ARCANO de JOB:
+    "Sufrimientos. Pruebas. Dolor".\n\n
+
+    ARCANO 9
+    EL EREMITA:
+    LA INICIACIÓN:
+    "Soledad. Sufrimientos".\n\n
+
+    ARCANO 10
+    LA RETRIBUCIÓN:
+    LA RUEDA de la FORTUNA:
+    "Buenos negocios. Cambios".\n\n
+
+    ARCANO 11
+    LA PERSUASIÓN:
+    EL LEÓN DOMADO:
+    "Favorece la Ley. Que no haya temor. Marte".\n\n
+
+    ARCANO 12
+    EL APOSTOLADO:
+    EL SACRIFICIO:
+    "Pruebas y dolor. Arcano A.Z.F. nos saca del dolor".\n\n
+
+    ARCANO 13
+    LA INMORTALIDAD:
+    MUERTE y RESURRECCIÓN:
+    "Transformaciones. Indica cambio total".\n\n
+
+    ARCANO 14
+    LA TEMPERANCIA:
+    MATRIMONIO ASOCIACIÓN:
+    "Larga vida. Estabilidad. No cambio".\n\n
+
+    </string>
+    <string name="txt_num3">
+
+    ARCANO 15
+    LA PASIÓN:
+    TIFON BAFOMETO:
+    "Fracaso amoroso. Anuncia peligros".\n\n
+
+    ARCANO 16
+    LA FRAGILIDAD:
+    LA TORRE FULMINADA:
+    "Castigo. Caída terrible. Evítese esta fecha".\n\n
+
+    ARCANO 17
+    LA ESPERANZA:
+    LA ESTRELLA de la ESPERANZA:
+    "Significa esperanza y espera".\n\n
+
+    ARCANO 18
+    EL CREPÚSCULO:
+    ENEMIGOS OCULTOS:
+    "Los enemigos ocultos saltan en cualquier momento. Enfermedades. No negocios".\n\n
+
+    ARCANO 19
+    LA INSPIRACIÓN:
+    EL SOL RADIANTE:
+    "Éxitos. Buena suerte. La Piedra Filosofal".\n\n
+
+    ARCANO 20
+    LA RESURRECCIÓN:
+    LA RESURRECCIÓN de los MUERTOS:
+    "Cambios favorables, aprovéchelos. Acabar con las debilidades".\n\n
+
+    ARCANO 21
+    LA TRANSMUTACIÓN:
+    EL LOCO, LA INSENSATEZ:
+    "Desmoralización total para el mal. Llave mágica: Runa Olin. Antítesis, enemigos de Hiram Habif".\n\n
+
+    ARCANO 22
+    EL REGRESO:
+    LA VERDAD, LA CORONA de la VIDA:
+        "Triunfo. Todo sale bien. Poder. Fuerza. Buena suerte".</string>
+
+    <string name="arcano2">Símboliza la madre, posibilidad de concebir, una persona prudente, reservada, no dice todo lo que sabe, pero sus sentimientos son profundos, una mujer sabia y estudiosa, alguien que no muestra todo lo que es o todo lo que sabe, secretos guardados.</string>
+    <string name="arcano3">La síntesis y la armonía entre el espíritu, la mente, el equilibrio y la emotividad. Esta carta representa la maternidad, la feminidad, la sensualidad, la afectividad.</string>
+    <string name="arcano4">El poder terrenal y temporal, lo material, que el hombre con sus conocimientos puede utilizar para sacar beneficios materiales. Representa también la estabilidad, la posición social de lo que se ha conseguido, la solidez de lo adquirido, fortuna, bienestar, placer material</string>
+    <string name="arcano5">El poder espiritual y el temporal y reina en 3 mundos o planos. La obediencia al poder y la voluntad divina, de respeto al orden, la transmisión de las leyes universales al mundo. Significa que lo que pasa, es lo que viene marcado por el destino.</string>
+    <string name="arcano6">El amor, la pareja, las relaciones afectivas, anuncia boda, consecución de las relaciones, afianzamiento, anuncia hijos. Representa la posibilidad de vernos enfrentados ante una elección, pero una elección que realmente ya ha sido elegida por el destino.</string>
+    <string name="arcano7">El éxito, el poder, los viajes, los desplazamientos, posición social, persona de alto rango, la acción, amigos a su alrededor, fuerza y energía.Momento importante</string>
+    <string name="arcano8">El equilibrio, la equidad, el rigor, la justicia. Lo único negativo de esta carta es la falta de dinamismo y rapidez. Todo es posible, todo es posible a largo plazo. Tiene un signo de fatalidad, ya que dice: "Todo pasará cuando sea el momento".</string>
+    <string name="arcano9">El ermitaño, el asceta, el guía, el estudioso, el erudito, el buscador. También representa la soledad, la reflexión, la prudencia, el estudio.Suele ir bien en momentos importantes</string>
+
+
+</resources>
